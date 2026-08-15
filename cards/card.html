@@ -193,14 +193,14 @@
         <div class="type-box">
           <div class="type-label"><span class="dot"></span>성격 A</div>
           <div class="meta-row"><span>취미</span><b id="aHobby"></b></div>
-          <div class="meta-row"><span>사교성</span><b id="aSocial"></b></div>
+          <div class="meta-row"><span>개인기 반응</span><b id="aReaction"></b></div>
           <div class="type-theme" id="aTheme"></div>
           <div class="type-sample" id="aSample"></div>
         </div>
         <div class="type-box">
           <div class="type-label"><span class="dot"></span>성격 B</div>
           <div class="meta-row"><span>취미</span><b id="bHobby"></b></div>
-          <div class="meta-row"><span>사교성</span><b id="bSocial"></b></div>
+          <div class="meta-row"><span>개인기 반응</span><b id="bReaction"></b></div>
           <div class="type-theme" id="bTheme"></div>
           <div class="type-sample" id="bSample"></div>
         </div>
@@ -233,12 +233,12 @@ async function render() {
   document.getElementById('vibe').textContent = p.vibe;
 
   document.getElementById('aHobby').textContent = p.subtypeA.hobby;
-  document.getElementById('aSocial').textContent = p.subtypeA.social;
+  document.getElementById('aReaction').textContent = p.subtypeA.reaction;
   document.getElementById('aTheme').textContent = p.subtypeA.theme;
   document.getElementById('aSample').textContent = '"' + p.subtypeA.sample + '"';
 
   document.getElementById('bHobby').textContent = p.subtypeB.hobby;
-  document.getElementById('bSocial').textContent = p.subtypeB.social;
+  document.getElementById('bReaction').textContent = p.subtypeB.reaction;
   document.getElementById('bTheme').textContent = p.subtypeB.theme;
   document.getElementById('bSample').textContent = '"' + p.subtypeB.sample + '"';
 

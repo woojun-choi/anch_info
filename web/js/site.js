@@ -45,7 +45,7 @@ function renderLanding(root) {
 function vitemHtml(v) {
   return `
     <div class="vitem" data-name="${v.kr.toLowerCase()}">
-      <div class="vicon"><img src="${faceUrl(v.en)}" alt="${v.kr}" loading="lazy"></div>
+      <div class="vicon"><img src="${faceUrl(v.en)}" alt="${v.kr}"></div>
       <div class="vname">${v.kr}</div>
     </div>`;
 }

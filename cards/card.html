@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>ACNH 성격 카드</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Jua&display=swap');
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: #EAF3E8;
+    font-family: 'Gowun Dodum', sans-serif;
+  }
+  #stage {
+    width: 900px;
+    height: 920px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    width: 820px;
+    height: 840px;
+    border-radius: 40px;
+    background: var(--soft);
+    border: 6px solid var(--main);
+    box-shadow: 0 18px 0 rgba(0,0,0,0.06);
+    padding: 48px 52px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::after {
+    content: "";
+    position: absolute;
+    right: -60px; top: -60px;
+    width: 220px; height: 220px;
+    border-radius: 50%;
+    background: var(--main);
+    opacity: 0.15;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 28px;
+  }
+  .emoji-badge {
+    width: 110px; height: 110px;
+    border-radius: 32px;
+    background: var(--main);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 58px;
+    box-shadow: 0 6px 0 rgba(0,0,0,0.12);
+    flex-shrink: 0;
+  }
+  .titles .kr {
+    font-family: 'Jua', sans-serif;
+    font-size: 52px;
+    color: #3b3b3b;
+    line-height: 1.1;
+  }
+  .titles .en {
+    font-size: 22px;
+    color: #6b6b6b;
+    margin-top: 4px;
+  }
+  .chip {
+    display: inline-block;
+    margin-top: 10px;
+    background: white;
+    border: 2px solid var(--main);
+    color: var(--main);
+    font-size: 16px;
+    font-weight: bold;
+    padding: 4px 14px;
+    border-radius: 999px;
+  }
+  .quote-box {
+    background: white;
+    border-radius: 24px;
+    padding: 22px 26px;
+    margin-bottom: 22px;
+    position: relative;
+    box-shadow: 0 4px 0 rgba(0,0,0,0.05);
+  }
+  .quote-label {
+    font-size: 14px;
+    color: var(--main);
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  .quote-text {
+    font-size: 24px;
+    color: #333;
+    line-height: 1.5;
+  }
+  .quote-style {
+    margin-top: 10px;
+    font-size: 15px;
+    color: #888;
+  }
+  .vibe {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.7;
+    margin-bottom: 30px;
+    padding: 0 4px;
+  }
+  .split {
+    display: flex;
+    gap: 20px;
+  }
+  .type-box {
+    flex: 1;
+    background: white;
+    border-radius: 24px;
+    padding: 24px;
+    box-shadow: 0 4px 0 rgba(0,0,0,0.05);
+  }
+  .type-box .type-label {
+    font-family: 'Jua', sans-serif;
+    font-size: 26px;
+    color: var(--main);
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .type-label .dot {
+    width: 14px; height: 14px;
+    border-radius: 50%;
+    background: var(--main);
+  }
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 6px;
+    border-bottom: 1px dashed #eee;
+    padding-bottom: 6px;
+  }
+  .meta-row b { color: #444; }
+  .type-theme {
+    font-size: 15px;
+    color: #444;
+    margin: 14px 0 12px;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+  .type-sample {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+    background: var(--soft);
+    border-radius: 14px;
+    padding: 12px 14px;
+  }
+  .footer {
+    position: absolute;
+    bottom: 30px; left: 52px; right: 52px;
+    padding-top: 18px;
+    border-top: 1px dashed rgba(0,0,0,0.08);
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    color: #999;
+  }
+</style>
+</head>
+<body>
+  <div id="stage">
+    <div class="card" id="card">
+      <div class="header">
+        <div class="emoji-badge" id="emoji"></div>
+        <div class="titles">
+          <div class="kr" id="nameKr"></div>
+          <div class="en" id="nameEn"></div>
+          <div class="chip" id="genderChip"></div>
+        </div>
+      </div>
+
+      <div class="quote-box">
+        <div class="quote-label">대표 대사</div>
+        <div class="quote-text" id="speechSample"></div>
+        <div class="quote-style" id="speechStyle"></div>
+      </div>
+
+      <div class="vibe" id="vibe"></div>
+
+      <div class="split">
+        <div class="type-box">
+          <div class="type-label"><span class="dot"></span>성격 A</div>
+          <div class="meta-row"><span>취미</span><b id="aHobby"></b></div>
+          <div class="meta-row"><span>사교성</span><b id="aSocial"></b></div>
+          <div class="type-theme" id="aTheme"></div>
+          <div class="type-sample" id="aSample"></div>
+        </div>
+        <div class="type-box">
+          <div class="type-label"><span class="dot"></span>성격 B</div>
+          <div class="meta-row"><span>취미</span><b id="bHobby"></b></div>
+          <div class="meta-row"><span>사교성</span><b id="bSocial"></b></div>
+          <div class="type-theme" id="bTheme"></div>
+          <div class="type-sample" id="bSample"></div>
+        </div>
+      </div>
+
+      <div class="footer">
+        <span>모동숲 성격 대화타입 시리즈</span>
+        <span id="idTag"></span>
+      </div>
+    </div>
+  </div>
+
+<script>
+async function render() {
+  const params = new URLSearchParams(location.search);
+  const id = params.get('id') || 'lazy';
+  const res = await fetch('../data/personalities.json');
+  const data = await res.json();
+  const p = data.find(d => d.id === id);
+  if (!p) { document.body.innerHTML = '<h1>ID not found: ' + id + '</h1>'; return; }
+
+  document.getElementById('card').style.setProperty('--main', p.color);
+  document.getElementById('card').style.setProperty('--soft', p.colorSoft);
+  document.getElementById('emoji').textContent = p.emoji;
+  document.getElementById('nameKr').textContent = p.nameKr;
+  document.getElementById('nameEn').textContent = p.nameEn;
+  document.getElementById('genderChip').textContent = p.gender + ' · 1인칭 "' + p.firstPerson + '"';
+  document.getElementById('speechSample').textContent = '"' + p.speechSample + '"';
+  document.getElementById('speechStyle').textContent = p.speechStyle;
+  document.getElementById('vibe').textContent = p.vibe;
+
+  document.getElementById('aHobby').textContent = p.subtypeA.hobby;
+  document.getElementById('aSocial').textContent = p.subtypeA.social;
+  document.getElementById('aTheme').textContent = p.subtypeA.theme;
+  document.getElementById('aSample').textContent = '"' + p.subtypeA.sample + '"';
+
+  document.getElementById('bHobby').textContent = p.subtypeB.hobby;
+  document.getElementById('bSocial').textContent = p.subtypeB.social;
+  document.getElementById('bTheme').textContent = p.subtypeB.theme;
+  document.getElementById('bSample').textContent = '"' + p.subtypeB.sample + '"';
+
+  document.getElementById('idTag').textContent = '#' + p.nameKr;
+  document.body.setAttribute('data-ready', 'true');
+}
+render();
+</script>
+</body>
+</html>

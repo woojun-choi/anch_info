@@ -1,0 +1,1718 @@
+{
+ "느끼함": {
+  "A": [
+   {
+    "kr": "곰도로스",
+    "en": "Klaus"
+   },
+   {
+    "kr": "글라햄",
+    "en": "Graham"
+   },
+   {
+    "kr": "넬슨",
+    "en": "Zell"
+   },
+   {
+    "kr": "덕근",
+    "en": "Quillson"
+   },
+   {
+    "kr": "데이빗",
+    "en": "Hippeux"
+   },
+   {
+    "kr": "돈후앙",
+    "en": "Chops"
+   },
+   {
+    "kr": "라이오넬",
+    "en": "Lionel"
+   },
+   {
+    "kr": "리카르도",
+    "en": "Kyle"
+   },
+   {
+    "kr": "마스카라스",
+    "en": "Lucha"
+   },
+   {
+    "kr": "밥",
+    "en": "Shep"
+   },
+   {
+    "kr": "베어드",
+    "en": "Beardo"
+   },
+   {
+    "kr": "볼트",
+    "en": "Tex"
+   },
+   {
+    "kr": "스나일",
+    "en": "Hans"
+   },
+   {
+    "kr": "스트로",
+    "en": "Huck"
+   },
+   {
+    "kr": "안소니",
+    "en": "Colton"
+   },
+   {
+    "kr": "안토니오",
+    "en": "Olaf"
+   },
+   {
+    "kr": "오골",
+    "en": "Ken"
+   },
+   {
+    "kr": "유니오",
+    "en": "Julian"
+   },
+   {
+    "kr": "지미",
+    "en": "Rodney"
+   },
+   {
+    "kr": "쪼끼",
+    "en": "Jacques"
+   },
+   {
+    "kr": "쭈니",
+    "en": "Marshal"
+   },
+   {
+    "kr": "치즈",
+    "en": "Chadder"
+   },
+   {
+    "kr": "케인",
+    "en": "Phil"
+   },
+   {
+    "kr": "코알",
+    "en": "Eugene"
+   },
+   {
+    "kr": "톰슨",
+    "en": "Lopez"
+   },
+   {
+    "kr": "티처",
+    "en": "Leopold"
+   },
+   {
+    "kr": "프랭크",
+    "en": "Keaton"
+   },
+   {
+    "kr": "피엘",
+    "en": "Pietro"
+   },
+   {
+    "kr": "헨리",
+    "en": "Henry"
+   }
+  ],
+  "B": [
+   {
+    "kr": "꺼벙",
+    "en": "Ed"
+   },
+   {
+    "kr": "산토스",
+    "en": "O'Hare"
+   },
+   {
+    "kr": "염두리",
+    "en": "Kidd"
+   },
+   {
+    "kr": "잭슨",
+    "en": "Raymond"
+   },
+   {
+    "kr": "카를로스",
+    "en": "Curlos"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "기가",
+    "en": "Cephalobot"
+   },
+   {
+    "kr": "삐로코",
+    "en": "Roswell"
+   },
+   {
+    "kr": "토비",
+    "en": "Toby"
+   }
+  ]
+ },
+ "아이돌": {
+  "A": [
+   {
+    "kr": "마롱",
+    "en": "Maddie"
+   },
+   {
+    "kr": "모니카",
+    "en": "Audie"
+   },
+   {
+    "kr": "미미",
+    "en": "Bonbon"
+   },
+   {
+    "kr": "백희",
+    "en": "Bianca"
+   },
+   {
+    "kr": "부케",
+    "en": "Rosie"
+   },
+   {
+    "kr": "사탕",
+    "en": "Candi"
+   },
+   {
+    "kr": "애플",
+    "en": "Apple"
+   },
+   {
+    "kr": "찍순이",
+    "en": "Penelope"
+   },
+   {
+    "kr": "케첩",
+    "en": "Ketchup"
+   },
+   {
+    "kr": "크리미",
+    "en": "Sprinkle"
+   },
+   {
+    "kr": "파이프",
+    "en": "Piper"
+   },
+   {
+    "kr": "플라라",
+    "en": "Flora"
+   }
+  ],
+  "B": [
+   {
+    "kr": "2호",
+    "en": "Agent S"
+   },
+   {
+    "kr": "가위",
+    "en": "Puddles"
+   },
+   {
+    "kr": "그리미",
+    "en": "Nibbles"
+   },
+   {
+    "kr": "글루민",
+    "en": "Bluebear"
+   },
+   {
+    "kr": "나키",
+    "en": "Pate"
+   },
+   {
+    "kr": "눈송이",
+    "en": "Wendy"
+   },
+   {
+    "kr": "다랑어",
+    "en": "Freckles"
+   },
+   {
+    "kr": "라자냐",
+    "en": "Anicotti"
+   },
+   {
+    "kr": "로타",
+    "en": "Pippy"
+   },
+   {
+    "kr": "루나",
+    "en": "Ruby"
+   },
+   {
+    "kr": "루주",
+    "en": "Bangle"
+   },
+   {
+    "kr": "릴리안",
+    "en": "Bunnie"
+   },
+   {
+    "kr": "링링",
+    "en": "Pinky"
+   },
+   {
+    "kr": "밀크",
+    "en": "Patty"
+   },
+   {
+    "kr": "백프로",
+    "en": "Tangy"
+   },
+   {
+    "kr": "베리",
+    "en": "Cookie"
+   },
+   {
+    "kr": "서머",
+    "en": "Dotty"
+   },
+   {
+    "kr": "센트엘로",
+    "en": "Victoria"
+   },
+   {
+    "kr": "아롱이",
+    "en": "Anabelle"
+   },
+   {
+    "kr": "아세로라",
+    "en": "Cheri"
+   },
+   {
+    "kr": "에이프릴",
+    "en": "Tammi"
+   },
+   {
+    "kr": "연유",
+    "en": "Tutu"
+   },
+   {
+    "kr": "예링",
+    "en": "Felicity"
+   },
+   {
+    "kr": "유네찌",
+    "en": "Merry"
+   },
+   {
+    "kr": "이자벨",
+    "en": "Bella"
+   },
+   {
+    "kr": "주디",
+    "en": "Pompom"
+   },
+   {
+    "kr": "차코",
+    "en": "Bubbles"
+   },
+   {
+    "kr": "체리",
+    "en": "Peggy"
+   },
+   {
+    "kr": "초코",
+    "en": "Carmen"
+   },
+   {
+    "kr": "카로틴",
+    "en": "Winnie"
+   },
+   {
+    "kr": "크리스틴",
+    "en": "Chrissy"
+   },
+   {
+    "kr": "탱고",
+    "en": "Truffles"
+   },
+   {
+    "kr": "패트라",
+    "en": "Pango"
+   },
+   {
+    "kr": "패티카",
+    "en": "Gabi"
+   },
+   {
+    "kr": "핀틱",
+    "en": "Twiggy"
+   },
+   {
+    "kr": "핑키",
+    "en": "Peanut"
+   },
+   {
+    "kr": "호냥이",
+    "en": "Tabby"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "데자네",
+    "en": "Rio"
+   },
+   {
+    "kr": "릴라",
+    "en": "Rilla"
+   },
+   {
+    "kr": "요비",
+    "en": "Shino"
+   },
+   {
+    "kr": "피카",
+    "en": "Chai"
+   }
+  ]
+ },
+ "성숙함": {
+  "A": [
+   {
+    "kr": "나타샤",
+    "en": "Tasha"
+   },
+   {
+    "kr": "나탈리",
+    "en": "Diana"
+   },
+   {
+    "kr": "미애",
+    "en": "Judy"
+   },
+   {
+    "kr": "바네사",
+    "en": "Vivian"
+   },
+   {
+    "kr": "복자",
+    "en": "Greta"
+   },
+   {
+    "kr": "브리트니",
+    "en": "Pancetti"
+   },
+   {
+    "kr": "비티",
+    "en": "Bitty"
+   },
+   {
+    "kr": "샨티",
+    "en": "Soleil"
+   },
+   {
+    "kr": "스누티",
+    "en": "Snooty"
+   },
+   {
+    "kr": "신디",
+    "en": "Claudia"
+   },
+   {
+    "kr": "신옥",
+    "en": "Blanche"
+   },
+   {
+    "kr": "아이소토프",
+    "en": "Cleo"
+   },
+   {
+    "kr": "잔디",
+    "en": "Timbra"
+   },
+   {
+    "kr": "줄리아",
+    "en": "Julia"
+   },
+   {
+    "kr": "캐시미어",
+    "en": "Cashmere"
+   },
+   {
+    "kr": "화자",
+    "en": "Naomi"
+   },
+   {
+    "kr": "히킨",
+    "en": "Broffina"
+   }
+  ],
+  "B": [
+   {
+    "kr": "레베카",
+    "en": "Pecan"
+   },
+   {
+    "kr": "린다",
+    "en": "Gigi"
+   },
+   {
+    "kr": "마리",
+    "en": "Willow"
+   },
+   {
+    "kr": "마릴린",
+    "en": "Gloria"
+   },
+   {
+    "kr": "마틸다",
+    "en": "Tipper"
+   },
+   {
+    "kr": "몽자",
+    "en": "Elise"
+   },
+   {
+    "kr": "미란다",
+    "en": "Miranda"
+   },
+   {
+    "kr": "민트",
+    "en": "Mint"
+   },
+   {
+    "kr": "바슬레",
+    "en": "Tiffany"
+   },
+   {
+    "kr": "벨마",
+    "en": "Velma"
+   },
+   {
+    "kr": "블랜더",
+    "en": "Portia"
+   },
+   {
+    "kr": "비앙카",
+    "en": "Whitney"
+   },
+   {
+    "kr": "사라",
+    "en": "Bree"
+   },
+   {
+    "kr": "사브리나",
+    "en": "Friga"
+   },
+   {
+    "kr": "산드라",
+    "en": "Freya"
+   },
+   {
+    "kr": "쇼콜라",
+    "en": "Kitty"
+   },
+   {
+    "kr": "스미모",
+    "en": "Mallary"
+   },
+   {
+    "kr": "실루엣",
+    "en": "Blaire"
+   },
+   {
+    "kr": "실부플레",
+    "en": "Annalise"
+   },
+   {
+    "kr": "아리아",
+    "en": "Becky"
+   },
+   {
+    "kr": "안데스",
+    "en": "Amelia"
+   },
+   {
+    "kr": "안젤라",
+    "en": "Mathilda"
+   },
+   {
+    "kr": "앤",
+    "en": "Maelle"
+   },
+   {
+    "kr": "엘레핀",
+    "en": "Eloise"
+   },
+   {
+    "kr": "오팔",
+    "en": "Opal"
+   },
+   {
+    "kr": "올리비아",
+    "en": "Olivia"
+   },
+   {
+    "kr": "유카리",
+    "en": "Yuka"
+   },
+   {
+    "kr": "제인",
+    "en": "Monique"
+   },
+   {
+    "kr": "줌마",
+    "en": "Violet"
+   },
+   {
+    "kr": "크로크",
+    "en": "Alli"
+   },
+   {
+    "kr": "클레오",
+    "en": "Ankha"
+   },
+   {
+    "kr": "타마",
+    "en": "Purrl"
+   },
+   {
+    "kr": "택주",
+    "en": "Queenie"
+   },
+   {
+    "kr": "트로와",
+    "en": "Baabara"
+   },
+   {
+    "kr": "파틱",
+    "en": "Robin"
+   },
+   {
+    "kr": "펑키맘",
+    "en": "Astrid"
+   },
+   {
+    "kr": "폴라",
+    "en": "Gwen"
+   },
+   {
+    "kr": "프랑소와",
+    "en": "Francine"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "리카",
+    "en": "Petri"
+   },
+   {
+    "kr": "페튜니아",
+    "en": "Azalea"
+   }
+  ]
+ },
+ "무뚝뚝": {
+  "A": [
+   {
+    "kr": "관록",
+    "en": "Walt"
+   },
+   {
+    "kr": "근성",
+    "en": "Gonzo"
+   },
+   {
+    "kr": "근엄",
+    "en": "Buzz"
+   },
+   {
+    "kr": "노르망",
+    "en": "Vic"
+   },
+   {
+    "kr": "대공",
+    "en": "Ike"
+   },
+   {
+    "kr": "뚝심",
+    "en": "Curt"
+   },
+   {
+    "kr": "마이크",
+    "en": "Rooney"
+   },
+   {
+    "kr": "머피",
+    "en": "Murphy"
+   },
+   {
+    "kr": "보리",
+    "en": "Boris"
+   },
+   {
+    "kr": "보이드",
+    "en": "Boyd"
+   },
+   {
+    "kr": "브루스",
+    "en": "Bruce"
+   },
+   {
+    "kr": "스쿼트",
+    "en": "Spike"
+   },
+   {
+    "kr": "일섭",
+    "en": "Admiral"
+   },
+   {
+    "kr": "켄",
+    "en": "Dobie"
+   },
+   {
+    "kr": "투투",
+    "en": "Croque"
+   },
+   {
+    "kr": "펑크스",
+    "en": "Cyd"
+   },
+   {
+    "kr": "햄쥐",
+    "en": "Hamphrey"
+   }
+  ],
+  "B": [
+   {
+    "kr": "가북희",
+    "en": "Kabuki"
+   },
+   {
+    "kr": "갈가리",
+    "en": "Ricky"
+   },
+   {
+    "kr": "거무틱",
+    "en": "Groucho"
+   },
+   {
+    "kr": "곤잘레스",
+    "en": "Rocco"
+   },
+   {
+    "kr": "곰비",
+    "en": "Vladimir"
+   },
+   {
+    "kr": "글레이",
+    "en": "Rasher"
+   },
+   {
+    "kr": "금끼오",
+    "en": "Knox"
+   },
+   {
+    "kr": "늑태",
+    "en": "Lobo"
+   },
+   {
+    "kr": "단무지",
+    "en": "Limberg"
+   },
+   {
+    "kr": "달만이",
+    "en": "Hopper"
+   },
+   {
+    "kr": "대길",
+    "en": "Gaston"
+   },
+   {
+    "kr": "대장",
+    "en": "Chief"
+   },
+   {
+    "kr": "덤벨",
+    "en": "Peewee"
+   },
+   {
+    "kr": "로보",
+    "en": "Wolfgang"
+   },
+   {
+    "kr": "몽티",
+    "en": "Monty"
+   },
+   {
+    "kr": "무뚝",
+    "en": "Grizzly"
+   },
+   {
+    "kr": "문복",
+    "en": "Octavian"
+   },
+   {
+    "kr": "반데스",
+    "en": "Angus"
+   },
+   {
+    "kr": "밴덤",
+    "en": "Tom"
+   },
+   {
+    "kr": "빌리",
+    "en": "Gruff"
+   },
+   {
+    "kr": "사지마",
+    "en": "Cyrano"
+   },
+   {
+    "kr": "샘",
+    "en": "Wart Jr."
+   },
+   {
+    "kr": "슈베르트",
+    "en": "Roscoe"
+   },
+   {
+    "kr": "스파크",
+    "en": "Static"
+   },
+   {
+    "kr": "시베리아",
+    "en": "Fang"
+   },
+   {
+    "kr": "아폴로",
+    "en": "Apollo"
+   },
+   {
+    "kr": "앨런",
+    "en": "Cesar"
+   },
+   {
+    "kr": "올리버",
+    "en": "Harry"
+   },
+   {
+    "kr": "조르쥐",
+    "en": "Rizzo"
+   },
+   {
+    "kr": "존",
+    "en": "Butch"
+   },
+   {
+    "kr": "충성",
+    "en": "Camofrog"
+   },
+   {
+    "kr": "츄양",
+    "en": "Chow"
+   },
+   {
+    "kr": "쿠스케처",
+    "en": "Avery"
+   },
+   {
+    "kr": "킹",
+    "en": "Elvis"
+   },
+   {
+    "kr": "티본",
+    "en": "T-Bone"
+   },
+   {
+    "kr": "파도맨",
+    "en": "Del"
+   },
+   {
+    "kr": "헐크",
+    "en": "Frank"
+   },
+   {
+    "kr": "호랭이",
+    "en": "Rolf"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "보스터",
+    "en": "Marlo"
+   },
+   {
+    "kr": "샹펜",
+    "en": "Frett"
+   }
+  ]
+ },
+ "친절함": {
+  "A": [
+   {
+    "kr": "귀오미",
+    "en": "Molly"
+   },
+   {
+    "kr": "릴리",
+    "en": "Skye"
+   },
+   {
+    "kr": "마가렛",
+    "en": "Maggie"
+   },
+   {
+    "kr": "마리아",
+    "en": "Marcie"
+   },
+   {
+    "kr": "마미",
+    "en": "Carrie"
+   },
+   {
+    "kr": "메이",
+    "en": "June"
+   },
+   {
+    "kr": "미자",
+    "en": "Norma"
+   },
+   {
+    "kr": "베이글",
+    "en": "Bea"
+   },
+   {
+    "kr": "뽀야미",
+    "en": "Flurry"
+   },
+   {
+    "kr": "샌디",
+    "en": "Sandy"
+   },
+   {
+    "kr": "설백",
+    "en": "Annalisa"
+   },
+   {
+    "kr": "솔미",
+    "en": "Fauna"
+   },
+   {
+    "kr": "스트로베리",
+    "en": "Merengue"
+   },
+   {
+    "kr": "실바나",
+    "en": "Sylvana"
+   },
+   {
+    "kr": "아크릴",
+    "en": "Stella"
+   },
+   {
+    "kr": "앨리",
+    "en": "Gayle"
+   },
+   {
+    "kr": "에끌레르",
+    "en": "Ellie"
+   },
+   {
+    "kr": "올리브",
+    "en": "Olive"
+   },
+   {
+    "kr": "캔디",
+    "en": "Megan"
+   },
+   {
+    "kr": "티나",
+    "en": "Tia"
+   },
+   {
+    "kr": "티파니",
+    "en": "Celia"
+   }
+  ],
+  "B": [
+   {
+    "kr": "곱슬이",
+    "en": "Eunice"
+   },
+   {
+    "kr": "꽃지",
+    "en": "Gala"
+   },
+   {
+    "kr": "다람",
+    "en": "Poppy"
+   },
+   {
+    "kr": "라라미",
+    "en": "Sally"
+   },
+   {
+    "kr": "레이니",
+    "en": "Lily"
+   },
+   {
+    "kr": "론다",
+    "en": "Rhonda"
+   },
+   {
+    "kr": "루시",
+    "en": "Lucy"
+   },
+   {
+    "kr": "마르",
+    "en": "Mitzi"
+   },
+   {
+    "kr": "마르카",
+    "en": "Bettina"
+   },
+   {
+    "kr": "마리모",
+    "en": "Deena"
+   },
+   {
+    "kr": "말자",
+    "en": "Peaches"
+   },
+   {
+    "kr": "메리어스",
+    "en": "Vesta"
+   },
+   {
+    "kr": "메이첼",
+    "en": "Maple"
+   },
+   {
+    "kr": "문리나",
+    "en": "Marina"
+   },
+   {
+    "kr": "바닐라",
+    "en": "Daisy"
+   },
+   {
+    "kr": "베티",
+    "en": "Bertha"
+   },
+   {
+    "kr": "빅토리아",
+    "en": "Gladys"
+   },
+   {
+    "kr": "사반나",
+    "en": "Savannah"
+   },
+   {
+    "kr": "사이다",
+    "en": "Lolly"
+   },
+   {
+    "kr": "샐리",
+    "en": "Margie"
+   },
+   {
+    "kr": "순이",
+    "en": "Nan"
+   },
+   {
+    "kr": "시드니",
+    "en": "Sydney"
+   },
+   {
+    "kr": "아델레이드",
+    "en": "Melba"
+   },
+   {
+    "kr": "애플리케",
+    "en": "Kitt"
+   },
+   {
+    "kr": "에바",
+    "en": "Ava"
+   },
+   {
+    "kr": "에스메랄다",
+    "en": "Jambette"
+   },
+   {
+    "kr": "오로라",
+    "en": "Aurora"
+   },
+   {
+    "kr": "윤이",
+    "en": "Chevre"
+   },
+   {
+    "kr": "이요",
+    "en": "Coco"
+   },
+   {
+    "kr": "재스민",
+    "en": "Pekoe"
+   },
+   {
+    "kr": "카라멜",
+    "en": "Goldie"
+   },
+   {
+    "kr": "캐롤라인",
+    "en": "Caroline"
+   },
+   {
+    "kr": "캐비어",
+    "en": "Kiki"
+   },
+   {
+    "kr": "키키",
+    "en": "Nana"
+   },
+   {
+    "kr": "티미",
+    "en": "Dora"
+   },
+   {
+    "kr": "파슬리",
+    "en": "Cally"
+   },
+   {
+    "kr": "핑글이",
+    "en": "Midge"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "멜버른",
+    "en": "Alice"
+   },
+   {
+    "kr": "소면",
+    "en": "Zoe"
+   },
+   {
+    "kr": "스피카",
+    "en": "Ione"
+   },
+   {
+    "kr": "에뜨와르",
+    "en": "Etolie"
+   },
+   {
+    "kr": "첼시",
+    "en": "Chelsea"
+   }
+  ]
+ },
+ "먹보": {
+  "A": [
+   {
+    "kr": "개군",
+    "en": "Raddle"
+   },
+   {
+    "kr": "곰시",
+    "en": "Barold"
+   },
+   {
+    "kr": "델리",
+    "en": "Deli"
+   },
+   {
+    "kr": "땡칠이",
+    "en": "Benjamin"
+   },
+   {
+    "kr": "래미",
+    "en": "Sherb"
+   },
+   {
+    "kr": "렉스",
+    "en": "Rex"
+   },
+   {
+    "kr": "리키",
+    "en": "Filbert"
+   },
+   {
+    "kr": "마사마",
+    "en": "Papi"
+   },
+   {
+    "kr": "맘모",
+    "en": "Tucker"
+   },
+   {
+    "kr": "모리스",
+    "en": "Stu"
+   },
+   {
+    "kr": "비니거",
+    "en": "Claude"
+   },
+   {
+    "kr": "뿌람",
+    "en": "Hornsby"
+   },
+   {
+    "kr": "아마민",
+    "en": "Cole"
+   },
+   {
+    "kr": "아잠만",
+    "en": "Weber"
+   },
+   {
+    "kr": "야곱",
+    "en": "Jacob"
+   },
+   {
+    "kr": "용남이",
+    "en": "Drago"
+   },
+   {
+    "kr": "자끄",
+    "en": "Erik"
+   },
+   {
+    "kr": "타키",
+    "en": "Cranston"
+   },
+   {
+    "kr": "탁호",
+    "en": "Zucker"
+   },
+   {
+    "kr": "파올로",
+    "en": "Paolo"
+   },
+   {
+    "kr": "피터",
+    "en": "Beau"
+   },
+   {
+    "kr": "햄둥",
+    "en": "Clay"
+   },
+   {
+    "kr": "호떡",
+    "en": "Wade"
+   },
+   {
+    "kr": "홉킨스",
+    "en": "Hopkins"
+   }
+  ],
+  "B": [
+   {
+    "kr": "3호",
+    "en": "Big Top"
+   },
+   {
+    "kr": "김희",
+    "en": "Egbert"
+   },
+   {
+    "kr": "동동이",
+    "en": "Ozzie"
+   },
+   {
+    "kr": "드리미",
+    "en": "Jeremiah"
+   },
+   {
+    "kr": "럭키",
+    "en": "Lucky"
+   },
+   {
+    "kr": "로데오",
+    "en": "Rodeo"
+   },
+   {
+    "kr": "로빈",
+    "en": "Biskit"
+   },
+   {
+    "kr": "리처드",
+    "en": "Joey"
+   },
+   {
+    "kr": "마철이",
+    "en": "Clyde"
+   },
+   {
+    "kr": "먹고파",
+    "en": "Hugh"
+   },
+   {
+    "kr": "박하스",
+    "en": "Nate"
+   },
+   {
+    "kr": "벤",
+    "en": "Walker"
+   },
+   {
+    "kr": "봉",
+    "en": "Derwin"
+   },
+   {
+    "kr": "브로콜리",
+    "en": "Broccolo"
+   },
+   {
+    "kr": "빙수",
+    "en": "Cube"
+   },
+   {
+    "kr": "빙티",
+    "en": "Punchy"
+   },
+   {
+    "kr": "샤브렌",
+    "en": "Elmer"
+   },
+   {
+    "kr": "시몬",
+    "en": "Simon"
+   },
+   {
+    "kr": "안쵸비",
+    "en": "Anchovy"
+   },
+   {
+    "kr": "알베르트",
+    "en": "Alfonso"
+   },
+   {
+    "kr": "에드워드",
+    "en": "Marcel"
+   },
+   {
+    "kr": "우띠",
+    "en": "Pudge"
+   },
+   {
+    "kr": "우락",
+    "en": "Al"
+   },
+   {
+    "kr": "진상",
+    "en": "Moe"
+   },
+   {
+    "kr": "카일",
+    "en": "Prince"
+   },
+   {
+    "kr": "토니",
+    "en": "Doc"
+   },
+   {
+    "kr": "토미",
+    "en": "Bones"
+   },
+   {
+    "kr": "패치",
+    "en": "Stitches"
+   },
+   {
+    "kr": "팬타",
+    "en": "Chester"
+   },
+   {
+    "kr": "팽기",
+    "en": "Boomer"
+   },
+   {
+    "kr": "페니실린",
+    "en": "Benedict"
+   },
+   {
+    "kr": "포크",
+    "en": "Spork"
+   },
+   {
+    "kr": "푸아그라",
+    "en": "Drake"
+   },
+   {
+    "kr": "하키",
+    "en": "Puck"
+   },
+   {
+    "kr": "휴지",
+    "en": "Dizzy"
+   },
+   {
+    "kr": "히죽",
+    "en": "Bob"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "마티",
+    "en": "Marty"
+   },
+   {
+    "kr": "미첼",
+    "en": "Sasha"
+   },
+   {
+    "kr": "펭구",
+    "en": "Chabwick"
+   }
+  ]
+ },
+ "단순활발": {
+  "A": [
+   {
+    "kr": "나디아",
+    "en": "Deirdre"
+   },
+   {
+    "kr": "네이아",
+    "en": "Ursala"
+   },
+   {
+    "kr": "레이라",
+    "en": "Flo"
+   },
+   {
+    "kr": "리아나",
+    "en": "Reneigh"
+   },
+   {
+    "kr": "미랑",
+    "en": "Mira"
+   },
+   {
+    "kr": "바바라",
+    "en": "Pashmina"
+   },
+   {
+    "kr": "뿔님이",
+    "en": "Renee"
+   },
+   {
+    "kr": "아그네스",
+    "en": "Agnes"
+   },
+   {
+    "kr": "아네사",
+    "en": "Tammy"
+   },
+   {
+    "kr": "아이다",
+    "en": "Diva"
+   },
+   {
+    "kr": "아이리스",
+    "en": "Hazel"
+   },
+   {
+    "kr": "웬디",
+    "en": "Frita"
+   },
+   {
+    "kr": "제시카",
+    "en": "Fuchsia"
+   },
+   {
+    "kr": "젤리",
+    "en": "Shari"
+   },
+   {
+    "kr": "쵸이",
+    "en": "Katt"
+   },
+   {
+    "kr": "캔버라",
+    "en": "Canberra"
+   },
+   {
+    "kr": "파타야",
+    "en": "Plucky"
+   },
+   {
+    "kr": "프릴",
+    "en": "Muffy"
+   },
+   {
+    "kr": "한나",
+    "en": "Cherry"
+   },
+   {
+    "kr": "휘니",
+    "en": "Phoebe"
+   }
+  ],
+  "B": [
+   {
+    "kr": "4호",
+    "en": "Rocket"
+   },
+   {
+    "kr": "레이첼",
+    "en": "Paula"
+   },
+   {
+    "kr": "실비아",
+    "en": "Sylvia"
+   },
+   {
+    "kr": "챠미",
+    "en": "Charlise"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "마치",
+    "en": "Faith"
+   },
+   {
+    "kr": "시온",
+    "en": "Quinn"
+   }
+  ]
+ },
+ "운동광": {
+  "A": [
+   {
+    "kr": "록키",
+    "en": "Bam"
+   },
+   {
+    "kr": "머슬",
+    "en": "Louie"
+   },
+   {
+    "kr": "멧지",
+    "en": "Kevin"
+   },
+   {
+    "kr": "문대",
+    "en": "Peck"
+   },
+   {
+    "kr": "아더",
+    "en": "Rory"
+   },
+   {
+    "kr": "오즈먼드",
+    "en": "Lyman"
+   },
+   {
+    "kr": "원승",
+    "en": "Flip"
+   },
+   {
+    "kr": "차둘",
+    "en": "Dom"
+   },
+   {
+    "kr": "찰스",
+    "en": "Rudy"
+   },
+   {
+    "kr": "철소",
+    "en": "Coach"
+   },
+   {
+    "kr": "춘섭",
+    "en": "Sparro"
+   },
+   {
+    "kr": "코코아",
+    "en": "Bill"
+   },
+   {
+    "kr": "크리스",
+    "en": "Sheldon"
+   },
+   {
+    "kr": "텀보",
+    "en": "Tad"
+   },
+   {
+    "kr": "티볼트",
+    "en": "Tybalt"
+   },
+   {
+    "kr": "풍작",
+    "en": "Boots"
+   },
+   {
+    "kr": "하이드",
+    "en": "Sly"
+   },
+   {
+    "kr": "햄스틴",
+    "en": "Hamlet"
+   },
+   {
+    "kr": "헤르츠",
+    "en": "Sprocket"
+   },
+   {
+    "kr": "힘드러",
+    "en": "Billy"
+   }
+  ],
+  "B": [
+   {
+    "kr": "1호",
+    "en": "Kid Cat"
+   },
+   {
+    "kr": "가브리엘",
+    "en": "Biff"
+   },
+   {
+    "kr": "건태",
+    "en": "Goose"
+   },
+   {
+    "kr": "고메스",
+    "en": "Rowan"
+   },
+   {
+    "kr": "구리구리",
+    "en": "Frobert"
+   },
+   {
+    "kr": "김말이",
+    "en": "Iggly"
+   },
+   {
+    "kr": "닌토",
+    "en": "Snake"
+   },
+   {
+    "kr": "덕",
+    "en": "Drift"
+   },
+   {
+    "kr": "딩요",
+    "en": "Jitters"
+   },
+   {
+    "kr": "땀띠",
+    "en": "Stinky"
+   },
+   {
+    "kr": "릭",
+    "en": "Mott"
+   },
+   {
+    "kr": "만복이",
+    "en": "Boone"
+   },
+   {
+    "kr": "바야시코프",
+    "en": "Buck"
+   },
+   {
+    "kr": "박사",
+    "en": "Cobb"
+   },
+   {
+    "kr": "범호",
+    "en": "Leonardo"
+   },
+   {
+    "kr": "병태",
+    "en": "Teddy"
+   },
+   {
+    "kr": "봉추",
+    "en": "Poncho"
+   },
+   {
+    "kr": "선글",
+    "en": "Bud"
+   },
+   {
+    "kr": "세바스찬",
+    "en": "Pierce"
+   },
+   {
+    "kr": "아이다호",
+    "en": "Kody"
+   },
+   {
+    "kr": "엑스엘리",
+    "en": "Axel"
+   },
+   {
+    "kr": "왕서방",
+    "en": "Cousteau"
+   },
+   {
+    "kr": "은수리",
+    "en": "Sterling"
+   },
+   {
+    "kr": "쟝",
+    "en": "Rod"
+   },
+   {
+    "kr": "지키미",
+    "en": "Scoot"
+   },
+   {
+    "kr": "참돌이",
+    "en": "Jay"
+   },
+   {
+    "kr": "챔프",
+    "en": "Mac"
+   },
+   {
+    "kr": "철컥",
+    "en": "Ribbot"
+   },
+   {
+    "kr": "탱크",
+    "en": "Tank"
+   },
+   {
+    "kr": "토시",
+    "en": "Genji"
+   },
+   {
+    "kr": "퍼머거",
+    "en": "Antonio"
+   },
+   {
+    "kr": "펭수",
+    "en": "Roald"
+   },
+   {
+    "kr": "피스",
+    "en": "Samson"
+   },
+   {
+    "kr": "핑",
+    "en": "Moose"
+   },
+   {
+    "kr": "햄까스",
+    "en": "Curly"
+   }
+  ],
+  "미분류": [
+   {
+    "kr": "제천",
+    "en": "Tiansheng"
+   },
+   {
+    "kr": "페더",
+    "en": "Ace"
+   }
+  ]
+ }
+}

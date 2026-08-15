@@ -1,0 +1,2480 @@
+[
+ {
+  "en": "Marshal",
+  "kr": "쭈니",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Raymond",
+  "kr": "잭슨",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Apple",
+  "kr": "애플",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Judy",
+  "kr": "미애",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Fang",
+  "kr": "시베리아",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Flurry",
+  "kr": "뽀야미",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Lolly",
+  "kr": "사이다",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Molly",
+  "kr": "귀오미",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Stitches",
+  "kr": "패치",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Whitney",
+  "kr": "비앙카",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Diana",
+  "kr": "나탈리",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Beau",
+  "kr": "피터",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Rosie",
+  "kr": "부케",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Sasha",
+  "kr": "미첼",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Diva",
+  "kr": "아이다",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Maple",
+  "kr": "메이첼",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Joey",
+  "kr": "리처드",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Poppy",
+  "kr": "다람",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Dom",
+  "kr": "차둘",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Dotty",
+  "kr": "서머",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Francine",
+  "kr": "프랑소와",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Chrissy",
+  "kr": "크리스틴",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Punchy",
+  "kr": "빙티",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Fauna",
+  "kr": "솔미",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Bill",
+  "kr": "코코아",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Bluebear",
+  "kr": "글루민",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Ione",
+  "kr": "스피카",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Marty",
+  "kr": "마티",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Apollo",
+  "kr": "아폴로",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Kid Cat",
+  "kr": "1호",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Chief",
+  "kr": "대장",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "June",
+  "kr": "메이",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Audie",
+  "kr": "모니카",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Daisy",
+  "kr": "바닐라",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Bunnie",
+  "kr": "릴리안",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Lily",
+  "kr": "레이니",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Ketchup",
+  "kr": "케첩",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Merengue",
+  "kr": "스트로베리",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Zucker",
+  "kr": "탁호",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Skye",
+  "kr": "릴리",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Dizzy",
+  "kr": "휴지",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Ruby",
+  "kr": "루나",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Tia",
+  "kr": "티나",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Teddy",
+  "kr": "병태",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Wolfgang",
+  "kr": "로보",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Shino",
+  "kr": "요비",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Goldie",
+  "kr": "카라멜",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Marina",
+  "kr": "문리나",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Olivia",
+  "kr": "올리비아",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Coco",
+  "kr": "이요",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pekoe",
+  "kr": "재스민",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Weber",
+  "kr": "아잠만",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Rudy",
+  "kr": "찰스",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Blanche",
+  "kr": "신옥",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Filbert",
+  "kr": "리키",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Scoot",
+  "kr": "지키미",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Felicity",
+  "kr": "예링",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Flora",
+  "kr": "플라라",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Bob",
+  "kr": "히죽",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Fuchsia",
+  "kr": "제시카",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Cheri",
+  "kr": "아세로라",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Bree",
+  "kr": "사라",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Dobie",
+  "kr": "켄",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Sherb",
+  "kr": "래미",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Megan",
+  "kr": "캔디",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Lucky",
+  "kr": "럭키",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Melba",
+  "kr": "아델레이드",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Shari",
+  "kr": "젤리",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Murphy",
+  "kr": "머피",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Walker",
+  "kr": "벤",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Vivian",
+  "kr": "바네사",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Roald",
+  "kr": "펭수",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Genji",
+  "kr": "토시",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Freya",
+  "kr": "산드라",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Hazel",
+  "kr": "아이리스",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Aurora",
+  "kr": "오로라",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Ankha",
+  "kr": "클레오",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Piper",
+  "kr": "파이프",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Hamlet",
+  "kr": "햄스틴",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Broccolo",
+  "kr": "브로콜리",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Bones",
+  "kr": "토미",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Katt",
+  "kr": "쵸이",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Etolie",
+  "kr": "에뜨와르",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Wade",
+  "kr": "호떡",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Chai",
+  "kr": "피카",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Tangy",
+  "kr": "백프로",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Sprinkle",
+  "kr": "크리미",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Tammy",
+  "kr": "아네사",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Sylvana",
+  "kr": "실바나",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pate",
+  "kr": "나키",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Twiggy",
+  "kr": "핀틱",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Butch",
+  "kr": "존",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Hamphrey",
+  "kr": "햄쥐",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Rod",
+  "kr": "쟝",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Poncho",
+  "kr": "봉추",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Gala",
+  "kr": "꽃지",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Quinn",
+  "kr": "시온",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Snake",
+  "kr": "닌토",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Cherry",
+  "kr": "한나",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Margie",
+  "kr": "샐리",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pompom",
+  "kr": "주디",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Reneigh",
+  "kr": "리아나",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Cookie",
+  "kr": "베리",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Merry",
+  "kr": "유네찌",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Lopez",
+  "kr": "톰슨",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Ellie",
+  "kr": "에끌레르",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Willow",
+  "kr": "마리",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Erik",
+  "kr": "자끄",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Tutu",
+  "kr": "연유",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Purrl",
+  "kr": "타마",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Mitzi",
+  "kr": "마르",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Gaston",
+  "kr": "대길",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Gladys",
+  "kr": "빅토리아",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Olive",
+  "kr": "올리브",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Alice",
+  "kr": "멜버른",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Julian",
+  "kr": "유니오",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Midge",
+  "kr": "핑글이",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Petri",
+  "kr": "리카",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Stella",
+  "kr": "아크릴",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Lobo",
+  "kr": "늑태",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Dora",
+  "kr": "티미",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Agent S",
+  "kr": "2호",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Henry",
+  "kr": "헨리",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Chester",
+  "kr": "팬타",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Carmen",
+  "kr": "초코",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Roscoe",
+  "kr": "슈베르트",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Zell",
+  "kr": "넬슨",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Pashmina",
+  "kr": "바바라",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Frita",
+  "kr": "웬디",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Deirdre",
+  "kr": "나디아",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Static",
+  "kr": "스파크",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Chelsea",
+  "kr": "첼시",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Cyd",
+  "kr": "펑크스",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Ken",
+  "kr": "오골",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Maddie",
+  "kr": "마롱",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Deena",
+  "kr": "마리모",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Peanut",
+  "kr": "핑키",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Maelle",
+  "kr": "앤",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Mint",
+  "kr": "민트",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Blaire",
+  "kr": "실루엣",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Bruce",
+  "kr": "브루스",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Billy",
+  "kr": "힘드러",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Phoebe",
+  "kr": "휘니",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Shep",
+  "kr": "밥",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Cally",
+  "kr": "파슬리",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pecan",
+  "kr": "레베카",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "O'Hare",
+  "kr": "산토스",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Tom",
+  "kr": "밴덤",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Muffy",
+  "kr": "프릴",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Peck",
+  "kr": "문대",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Ursala",
+  "kr": "네이아",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Soleil",
+  "kr": "샨티",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Kiki",
+  "kr": "캐비어",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Gayle",
+  "kr": "앨리",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Octavian",
+  "kr": "문복",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Bianca",
+  "kr": "백희",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Julia",
+  "kr": "줄리아",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Kyle",
+  "kr": "리카르도",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Bea",
+  "kr": "베이글",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Chadder",
+  "kr": "치즈",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Eloise",
+  "kr": "엘레핀",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Mira",
+  "kr": "미랑",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Plucky",
+  "kr": "파타야",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Graham",
+  "kr": "글라햄",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Iggly",
+  "kr": "김말이",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Agnes",
+  "kr": "아그네스",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Elvis",
+  "kr": "킹",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Hopkins",
+  "kr": "홉킨스",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Vladimir",
+  "kr": "곰비",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Tasha",
+  "kr": "나타샤",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Caroline",
+  "kr": "캐롤라인",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Faith",
+  "kr": "마치",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Marlo",
+  "kr": "보스터",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Colton",
+  "kr": "안소니",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Kidd",
+  "kr": "염두리",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Bam",
+  "kr": "록키",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Buzz",
+  "kr": "근엄",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Bonbon",
+  "kr": "미미",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Goose",
+  "kr": "건태",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Jacob",
+  "kr": "야곱",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Mallary",
+  "kr": "스미모",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pietro",
+  "kr": "피엘",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Admiral",
+  "kr": "일섭",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Cole",
+  "kr": "아마민",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Cube",
+  "kr": "빙수",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Antonio",
+  "kr": "퍼머거",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Canberra",
+  "kr": "캔버라",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Tad",
+  "kr": "텀보",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Vesta",
+  "kr": "메리어스",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Nana",
+  "kr": "키키",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Cephalobot",
+  "kr": "기가",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Hornsby",
+  "kr": "뿌람",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Papi",
+  "kr": "마사마",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Queenie",
+  "kr": "택주",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Raddle",
+  "kr": "개군",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Bella",
+  "kr": "이자벨",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Ribbot",
+  "kr": "철컥",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Opal",
+  "kr": "오팔",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Celia",
+  "kr": "티파니",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Rolf",
+  "kr": "호랭이",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Chevre",
+  "kr": "윤이",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Samson",
+  "kr": "피스",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Paolo",
+  "kr": "파올로",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Toby",
+  "kr": "토비",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Kabuki",
+  "kr": "가북희",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Sally",
+  "kr": "라라미",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Jay",
+  "kr": "참돌이",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Curt",
+  "kr": "뚝심",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Sterling",
+  "kr": "은수리",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Ace",
+  "kr": "페더",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Jeremiah",
+  "kr": "드리미",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Rocket",
+  "kr": "4호",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Wendy",
+  "kr": "눈송이",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Curly",
+  "kr": "햄까스",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Big Top",
+  "kr": "3호",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Gloria",
+  "kr": "마릴린",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Kitty",
+  "kr": "쇼콜라",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Chabwick",
+  "kr": "펭구",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Sheldon",
+  "kr": "크리스",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Eugene",
+  "kr": "코알",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Axel",
+  "kr": "엑스엘리",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Eunice",
+  "kr": "곱슬이",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Freckles",
+  "kr": "다랑어",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Cranston",
+  "kr": "타키",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Charlise",
+  "kr": "챠미",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Huck",
+  "kr": "스트로",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Miranda",
+  "kr": "미란다",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Prince",
+  "kr": "카일",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Peggy",
+  "kr": "체리",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Kody",
+  "kr": "아이다호",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Walt",
+  "kr": "관록",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Lyman",
+  "kr": "오즈먼드",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Pinky",
+  "kr": "링링",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Tiffany",
+  "kr": "바슬레",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Clay",
+  "kr": "햄둥",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Deli",
+  "kr": "델리",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Drago",
+  "kr": "용남이",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Anchovy",
+  "kr": "안쵸비",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Pierce",
+  "kr": "세바스찬",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Lucy",
+  "kr": "루시",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Portia",
+  "kr": "블랜더",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Marcie",
+  "kr": "마리아",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Penelope",
+  "kr": "찍순이",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Flo",
+  "kr": "레이라",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Renee",
+  "kr": "뿔님이",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Becky",
+  "kr": "아리아",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pancetti",
+  "kr": "브리트니",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Louie",
+  "kr": "머슬",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Sylvia",
+  "kr": "실비아",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Gigi",
+  "kr": "린다",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pudge",
+  "kr": "우띠",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Jacques",
+  "kr": "쪼끼",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Ozzie",
+  "kr": "동동이",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Candi",
+  "kr": "사탕",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Mathilda",
+  "kr": "안젤라",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Kevin",
+  "kr": "멧지",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Truffles",
+  "kr": "탱고",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Puddles",
+  "kr": "가위",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Rilla",
+  "kr": "릴라",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Lionel",
+  "kr": "라이오넬",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Mac",
+  "kr": "챔프",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Grizzly",
+  "kr": "무뚝",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Doc",
+  "kr": "토니",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Biskit",
+  "kr": "로빈",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Tybalt",
+  "kr": "티볼트",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Gonzo",
+  "kr": "근성",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Tiansheng",
+  "kr": "제천",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Nibbles",
+  "kr": "그리미",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Barold",
+  "kr": "곰시",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Norma",
+  "kr": "미자",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Bangle",
+  "kr": "루주",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Anabelle",
+  "kr": "아롱이",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Sprocket",
+  "kr": "헤르츠",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Friga",
+  "kr": "사브리나",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Monique",
+  "kr": "제인",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Greta",
+  "kr": "복자",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Klaus",
+  "kr": "곰도로스",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Olaf",
+  "kr": "안토니오",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Nate",
+  "kr": "박하스",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Tank",
+  "kr": "탱크",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Boomer",
+  "kr": "팽기",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Nan",
+  "kr": "순이",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Moe",
+  "kr": "진상",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Sydney",
+  "kr": "시드니",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Annalisa",
+  "kr": "설백",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Kitt",
+  "kr": "애플리케",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Benjamin",
+  "kr": "땡칠이",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Flip",
+  "kr": "원승",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Biff",
+  "kr": "가브리엘",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Cousteau",
+  "kr": "왕서방",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Knox",
+  "kr": "금끼오",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Tipper",
+  "kr": "마틸다",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Amelia",
+  "kr": "안데스",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Robin",
+  "kr": "파틱",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Ava",
+  "kr": "에바",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Beardo",
+  "kr": "베어드",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Stinky",
+  "kr": "땀띠",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Patty",
+  "kr": "밀크",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Buck",
+  "kr": "바야시코프",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Hans",
+  "kr": "스나일",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Rex",
+  "kr": "렉스",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Claude",
+  "kr": "비니거",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Timbra",
+  "kr": "잔디",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Quillson",
+  "kr": "덕근",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Leonardo",
+  "kr": "범호",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Rhonda",
+  "kr": "론다",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Chops",
+  "kr": "돈후앙",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Ricky",
+  "kr": "갈가리",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Rowan",
+  "kr": "고메스",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Camofrog",
+  "kr": "충성",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Savannah",
+  "kr": "사반나",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Drake",
+  "kr": "푸아그라",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Azalea",
+  "kr": "페튜니아",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Gabi",
+  "kr": "패티카",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Rodeo",
+  "kr": "로데오",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Bettina",
+  "kr": "마르카",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Victoria",
+  "kr": "센트엘로",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Tex",
+  "kr": "볼트",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Annalise",
+  "kr": "실부플레",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Phil",
+  "kr": "케인",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Avery",
+  "kr": "쿠스케처",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Cleo",
+  "kr": "아이소토프",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Sly",
+  "kr": "하이드",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Derwin",
+  "kr": "봉",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Coach",
+  "kr": "철소",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Tabby",
+  "kr": "호냥이",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Boone",
+  "kr": "만복이",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Bud",
+  "kr": "선글",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Winnie",
+  "kr": "카로틴",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Maggie",
+  "kr": "마가렛",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Yuka",
+  "kr": "유카리",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Gwen",
+  "kr": "폴라",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Paula",
+  "kr": "레이첼",
+  "personality": "단순활발",
+  "gender": "venus"
+ },
+ {
+  "en": "Astrid",
+  "kr": "펑키맘",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Boots",
+  "kr": "풍작",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Curlos",
+  "kr": "카를로스",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Rodney",
+  "kr": "지미",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Bertha",
+  "kr": "베티",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Alfonso",
+  "kr": "알베르트",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Leopold",
+  "kr": "티처",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Frett",
+  "kr": "샹펜",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Cesar",
+  "kr": "앨런",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Drift",
+  "kr": "덕",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Frobert",
+  "kr": "구리구리",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Spork",
+  "kr": "포크",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Puck",
+  "kr": "하키",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Benedict",
+  "kr": "페니실린",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Hugh",
+  "kr": "먹고파",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Hopper",
+  "kr": "달만이",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Sandy",
+  "kr": "샌디",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Claudia",
+  "kr": "신디",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Del",
+  "kr": "파도맨",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Carrie",
+  "kr": "마미",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Keaton",
+  "kr": "프랭크",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Hippeux",
+  "kr": "데이빗",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Violet",
+  "kr": "줌마",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Monty",
+  "kr": "몽티",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Tucker",
+  "kr": "맘모",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Bubbles",
+  "kr": "차코",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Baabara",
+  "kr": "트로와",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Ed",
+  "kr": "꺼벙",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Marcel",
+  "kr": "에드워드",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Sparro",
+  "kr": "춘섭",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Al",
+  "kr": "우락",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Groucho",
+  "kr": "거무틱",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Tammi",
+  "kr": "에이프릴",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Alli",
+  "kr": "크로크",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Rooney",
+  "kr": "마이크",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Elise",
+  "kr": "몽자",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Velma",
+  "kr": "벨마",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Pango",
+  "kr": "패트라",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "T-Bone",
+  "kr": "티본",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Frank",
+  "kr": "헐크",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Simon",
+  "kr": "시몬",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Bitty",
+  "kr": "비티",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Rory",
+  "kr": "아더",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Spike",
+  "kr": "스쿼트",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Ike",
+  "kr": "대공",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Pippy",
+  "kr": "로타",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Roswell",
+  "kr": "삐로코",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Lucha",
+  "kr": "마스카라스",
+  "personality": "느끼함",
+  "gender": "mars"
+ },
+ {
+  "en": "Boris",
+  "kr": "보리",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Cyrano",
+  "kr": "사지마",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Croque",
+  "kr": "투투",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Egbert",
+  "kr": "김희",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Moose",
+  "kr": "핑",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Stu",
+  "kr": "모리스",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Jambette",
+  "kr": "에스메랄다",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Rio",
+  "kr": "데자네",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Peaches",
+  "kr": "말자",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Snooty",
+  "kr": "스누티",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Rizzo",
+  "kr": "조르쥐",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Chow",
+  "kr": "츄양",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Broffina",
+  "kr": "히킨",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Anicotti",
+  "kr": "라자냐",
+  "personality": "아이돌",
+  "gender": "venus"
+ },
+ {
+  "en": "Cobb",
+  "kr": "박사",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Zoe",
+  "kr": "소면",
+  "personality": "친절함",
+  "gender": "venus"
+ },
+ {
+  "en": "Naomi",
+  "kr": "화자",
+  "personality": "성숙함",
+  "gender": "venus"
+ },
+ {
+  "en": "Rasher",
+  "kr": "글레이",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Limberg",
+  "kr": "단무지",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Peewee",
+  "kr": "덤벨",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Mott",
+  "kr": "릭",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Wart Jr.",
+  "kr": "샘",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Boyd",
+  "kr": "보이드",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Elmer",
+  "kr": "샤브렌",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Rocco",
+  "kr": "곤잘레스",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Jitters",
+  "kr": "딩요",
+  "personality": "운동광",
+  "gender": "mars"
+ },
+ {
+  "en": "Vic",
+  "kr": "노르망",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Angus",
+  "kr": "반데스",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Harry",
+  "kr": "올리버",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Gruff",
+  "kr": "빌리",
+  "personality": "무뚝뚝",
+  "gender": "mars"
+ },
+ {
+  "en": "Clyde",
+  "kr": "마철이",
+  "personality": "먹보",
+  "gender": "mars"
+ },
+ {
+  "en": "Cashmere",
+  "kr": "캐시미어",
+  "personality": "성숙함",
+  "gender": "venus"
+ }
+]

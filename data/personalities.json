@@ -1,0 +1,210 @@
+[
+  {
+    "id": "lazy",
+    "personalityKey": "먹보",
+    "nameKr": "먹보",
+    "nameEn": "Lazy",
+    "gender": "남성",
+    "emoji": "🍩",
+    "color": "#F4B860",
+    "colorSoft": "#FFF3DE",
+    "firstPerson": "나, 저",
+    "speechStyle": "느긋하게 말을 늘여 발음함 (\"그렇구나아~\")",
+    "speechSample": "우와아~ 그거 맛있겠다아~ 나눠 먹을래?",
+    "vibe": "순수하고 다정한 초등학생 같은 먹보 캐릭터. 음식(특히 단 것)을 좋아하고 어려운 단어를 음식으로 착각하기도 함.",
+    "subtypeA": {
+      "hobby": "자연",
+      "social": "중간",
+      "theme": "히어로 놀이·영웅 판타지, 음식 이야기",
+      "sample": "나 사실 비밀 정체가 있어... 슈퍼 먹보맨이랄까!"
+    },
+    "subtypeB": {
+      "hobby": "놀이",
+      "social": "중간",
+      "theme": "어른스러워지려는 시도, 철학적인 질문",
+      "sample": "있잖아, 어른이 된다는 건 대체 뭘까...?"
+    }
+  },
+  {
+    "id": "jock",
+    "personalityKey": "운동광",
+    "nameKr": "운동광",
+    "nameEn": "Jock",
+    "gender": "남성",
+    "emoji": "💪",
+    "color": "#EF6C5C",
+    "colorSoft": "#FFE3DF",
+    "firstPerson": "오이라",
+    "speechStyle": "씩씩하고 활기찬 말투, 모든 대화를 운동으로 연결",
+    "speechSample": "오이라 오늘도 200개 채웠다구! 같이 운동할래?",
+    "vibe": "근육을 사랑하는 열혈 청년. 기상 06:30 / 취침 00:30로 활동 시간이 길고 부지런함.",
+    "subtypeA": {
+      "hobby": "놀이",
+      "social": "높음",
+      "theme": "운동 루틴, 보디빌딩 이야기",
+      "sample": "오이라 요즘 신 루틴 짰어! 한번 볼래?"
+    },
+    "subtypeB": {
+      "hobby": "운동",
+      "social": "높음",
+      "theme": "스포츠 활약상, 승부욕 강조",
+      "sample": "오이라 어제 시합에서 완전 날아다녔다구!"
+    }
+  },
+  {
+    "id": "cranky",
+    "personalityKey": "무뚝뚝",
+    "nameKr": "무뚝뚝",
+    "nameEn": "Cranky",
+    "gender": "남성",
+    "emoji": "🗿",
+    "color": "#5B6B73",
+    "colorSoft": "#E4E9EB",
+    "firstPerson": "오레",
+    "speechStyle": "거칠고 무뚝뚝하지만 은근히 다정한 츤데레 말투",
+    "speechSample": "흥, 딱히 걱정한 건 아니지만... 밥은 챙겨 먹었냐.",
+    "vibe": "아저씨 감성의 중년 캐릭터. 본의 아니게 팩폭을 날리지만 속은 따뜻함. 노래할 때만 목소리가 갈라짐.",
+    "subtypeA": {
+      "hobby": "자연",
+      "social": "중간",
+      "theme": "옛 시절 추억 회상",
+      "sample": "예전엔 말이지, 이런 것도 없이 다 손으로 했어."
+    },
+    "subtypeB": {
+      "hobby": "교육 또는 음악",
+      "social": "낮음",
+      "theme": "옛날식 지혜와 인생 조언",
+      "sample": "젊을 때 고생은 사서도 한다는 말, 틀린 거 하나 없다."
+    }
+  },
+  {
+    "id": "smug",
+    "personalityKey": "느끼함",
+    "nameKr": "느끼함",
+    "nameEn": "Smug",
+    "gender": "남성",
+    "emoji": "😏",
+    "color": "#C99A5B",
+    "colorSoft": "#F3E7D4",
+    "firstPerson": "나, 이 몸",
+    "speechStyle": "낭만적이고 느끼한 대사, 플레이어를 \"그대\"라 호칭",
+    "speechSample": "그대, 오늘도 이 몸의 매력에 빠지고 말았군.",
+    "vibe": "나르시시즘과 왕자병 기질이 강한 중2병 캐릭터. 잠자리채로 맞아도 그 반응조차 마음에 들어함.",
+    "subtypeA": {
+      "hobby": "음악 또는 교육",
+      "social": "중간",
+      "theme": "밴드 시절 이야기, 흑역사 고백",
+      "sample": "예전에 밴드 하던 시절엔 말이지... 아, 이건 비밀이었지."
+    },
+    "subtypeB": {
+      "hobby": "자연",
+      "social": "높음",
+      "theme": "유행과 셀럽 이야기",
+      "sample": "요즘 그거 유행이라던데, 그대도 알고 있나?"
+    }
+  },
+  {
+    "id": "normal",
+    "personalityKey": "친절함",
+    "nameKr": "친절함",
+    "nameEn": "Normal",
+    "gender": "여성",
+    "emoji": "🌷",
+    "color": "#7FA88E",
+    "colorSoft": "#E3EFE6",
+    "firstPerson": "저",
+    "speechStyle": "유일하게 존댓말만 사용, 상대를 \"~님\"이라 호칭",
+    "speechSample": "오늘도 좋은 하루 보내고 계신가요, 님?",
+    "vibe": "차분하고 다정한 성격. 독서와 요리를 좋아하며 모두와 사이좋게 지내는 것이 소망.",
+    "subtypeA": {
+      "hobby": "자연",
+      "social": "중간",
+      "theme": "가사와 뜨개질 같은 집안일을 즐김",
+      "sample": "요즘 뜨개질에 푹 빠졌어요, 님도 한번 해보실래요?"
+    },
+    "subtypeB": {
+      "hobby": "교육",
+      "social": "중간",
+      "theme": "스킬업 취미와 차(tea) 애호",
+      "sample": "차 한 잔 우려내면서 책 읽는 시간이 제일 좋아요."
+    }
+  },
+  {
+    "id": "peppy",
+    "personalityKey": "아이돌",
+    "nameKr": "아이돌",
+    "nameEn": "Peppy",
+    "gender": "여성",
+    "emoji": "⭐",
+    "color": "#E893B8",
+    "colorSoft": "#FCE3ED",
+    "firstPerson": "아타이",
+    "speechStyle": "발랄하고 사교적, 준말을 자주 써서 통통 튀는 말투",
+    "speechSample": "아타이 오늘 완전 텐션 미쳤어! 놀러 가자!",
+    "vibe": "스스로를 아이돌이라 칭하는 사교왕. 다만 요리 실력은 형편없는 '요리치'.",
+    "subtypeA": {
+      "hobby": "놀이",
+      "social": "높음",
+      "theme": "춤과 TV쇼에 대한 애정",
+      "sample": "아타이 그 프로 어제 봤어? 완전 소리 지르면서 봤잖아!"
+    },
+    "subtypeB": {
+      "hobby": "패션",
+      "social": "높음",
+      "theme": "게임, 만화, K.K. 음악에 진심",
+      "sample": "아타이 이번 K.K. 신곡 듣고 완전 울 뻔했잖아."
+    }
+  },
+  {
+    "id": "snooty",
+    "personalityKey": "성숙함",
+    "nameKr": "성숙함",
+    "nameEn": "Snooty",
+    "gender": "여성",
+    "emoji": "💅",
+    "color": "#9B7EBD",
+    "colorSoft": "#EDE4F5",
+    "firstPerson": "저, 나",
+    "speechStyle": "우아하고 절제된 표현, 플레이어를 \"당신\"이라 호칭",
+    "speechSample": "당신, 그 조합은 좀... 다시 생각해보는 게 어떨까요.",
+    "vibe": "기품 있는 중년 여성 캐릭터. 깐깐하지만 패션과 쇼핑, 가십 이야기를 즐김.",
+    "subtypeA": {
+      "hobby": "교육",
+      "social": "낮음",
+      "theme": "인테리어와 자기계발",
+      "sample": "방 배치는 결국 취향의 문제죠. 당신 방은 좀 손볼 곳이 많네요."
+    },
+    "subtypeB": {
+      "hobby": "패션",
+      "social": "중간",
+      "theme": "운동 루틴과 쇼핑 이야기",
+      "sample": "요즘 새로 나온 그 옷, 당신도 하나 사는 게 어때요?"
+    }
+  },
+  {
+    "id": "sisterly",
+    "personalityKey": "단순활발",
+    "nameKr": "단순활발",
+    "nameEn": "Sisterly (Uchi)",
+    "gender": "여성",
+    "emoji": "🔥",
+    "color": "#D9762B",
+    "colorSoft": "#FBE6D3",
+    "firstPerson": "나, 아타시",
+    "speechStyle": "거침없고 털털한 언니 말투",
+    "speechSample": "그까짓 거 신문지 세로로 말아서 팍! 별거 아니야.",
+    "vibe": "성숙보다 아이돌에 가까운 친근한 언니 캐릭터. 제안이 마음에 들면 휘파람을 불며 신나함.",
+    "subtypeA": {
+      "hobby": "음악 또는 놀이",
+      "social": "높음",
+      "theme": "덜렁대고 충동적인 성격 묘사",
+      "sample": "어, 어라? 나 또 뭐 놓고 왔나 봐. 하하, 신경 쓰지 마!"
+    },
+    "subtypeB": {
+      "hobby": "운동",
+      "social": "중간",
+      "theme": "가족사와 개인사 이야기",
+      "sample": "우리 언니가 예전에 그랬거든... 아, 옛날 얘기네."
+    }
+  }
+]
